@@ -17,3 +17,10 @@ Users should be able to:
 ![](./screenshotA.png)
 ![](./screenshotB.png)
 
+### 💡 Technologies
+
+- React Native
+- Expo
+- Firebase
+- Async Storage
+- Image Picker
