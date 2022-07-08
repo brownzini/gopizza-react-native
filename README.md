@@ -11,3 +11,9 @@ Users should be able to:
 - List pizza menu
 - Make a wish
 - Order management
+
+### Screenshot
+
+![](./screenshotA.png)
+![](./screenshotB.png)
+
