@@ -24,3 +24,11 @@ Users should be able to:
 - Firebase
 - Async Storage
 - Image Picker
+
+## 🎞️ How to run the project
+
+Clone the repository using "git clone". After that, go to the project folder and use the command "npm install" or "yarn install" to install the dependencies.
+
+Create a Firebase project and download the json file as instructed on the page.
+
+Finally use the command "npm run android" or "yarn android" to start the project (remember to have the emulator or device connected or to use the appropriate command for iOS).
